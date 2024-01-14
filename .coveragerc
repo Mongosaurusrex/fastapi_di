@@ -1,0 +1,3 @@
+[run]
+source = webapp
+omit = __init__.py, database.py, repositories.py, models.py
